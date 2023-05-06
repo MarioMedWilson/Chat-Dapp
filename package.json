@@ -1,0 +1,8 @@
+{
+  "name": "p2p_chat",
+  "version": "1.0.0",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "gun": "^0.2020.1239"
+  }
+}
